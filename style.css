@@ -1,0 +1,56 @@
+		.atas{
+				width: 90%;
+				height: 120px;
+				background-color: #00be9b;
+				text-align: left;
+				padding: 7px;
+				text-align: center;
+				border: 1px solid black;
+				float: center;
+		}
+
+		.baris2{
+				width: 90%;
+				height: 15px;
+				background-color: #79bd9a;
+				text-align: left;
+				padding: 7px;
+				border: 1px solid black;
+				
+		}
+
+		#div1 {
+			width: 25%;
+			float:left;
+			background-color: #00be9b;
+			height: 300px;
+			border: 1px solid black;
+			text-align: center;
+		}
+
+		#div2 {
+			width: 802px;
+			float: left;
+			background-color: #00be9b;
+			height: 300px;
+			text-align: center;
+			border: 1px solid black;
+		}
+		h2{
+			font-family: 'comic sans ms';
+			font-weight: 800;
+			font-size: 30px;
+			margin-bottom: 1px;
+		}
+		h4{
+			font-family: 'italic';
+			font-weight: 80;
+			font-size: 20px;
+			margin-bottom: 5px;
+		}
+		li{
+			font-family: 'italic';
+			font-weight: 80;
+			font-size: 20px;
+			margin-bottom: 5px;
+		}
